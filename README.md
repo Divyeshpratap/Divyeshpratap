@@ -1,8 +1,10 @@
 # 👋 Hi there, I'm Divyesh Pratap Singh
 
 <!-- Dynamic Typing SVG for Welcome Message -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&color=%23F7F7F7&background=00000000&center=true&vCenter=true&width=800&height=100&lines=Welcome+to+my+GitHub+Profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+New&size=30&duration=5000&color=%23F7F7F7&background=%23000000&center=true&vCenter=true&width=800&height=100&lines=Welcome+to+my+GitHub+Page!)](https://git.io/typing-svg)
 
+<!-- Intro Section -->
+### I'm Divyesh Pratap Singh, a Machine Learning and Data Science Engineer with over 5 years of experience in the automotive and banking industries. Currently, I work as a Graduate Research Assistant at the SUNY Research Foundation, focusing on multimodal Active Speaker Localization, & NLP driven Child Speech modelling.
 <!-- Visitor Count -->
 ![Visitor Count](https://komarev.com/ghpvc/?username=Divyeshpratap&label=Profile%20views&color=FF5733&style=flat)
 
@@ -21,6 +23,7 @@
 ![Divyesh's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Divyeshpratap&theme=gruvbox)
 
 <!-- GitHub Streak Stats -->
+## What am I up to? 🤔
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Divyeshpratap&theme=dark)
 
 <!-- Top Languages Card -->
@@ -38,36 +41,34 @@
 
 ## 👨‍💼 About Me
 
-I'm **Divyesh Pratap Singh**, a dedicated **Machine Learning** and **Software Engineer** with over **5 years of experience** in solving complex business problems within the **automotive** and **credit card** industries. Currently, I serve as a **Research Assistant** at the **SUNY Research Foundation**, focusing on cutting-edge NLP-based projects.
+I'm currently pursuing Masters in Artificial Intelligence at University at Buffalo, and actively looking for Full-Time opportunities in Machine Learning, and Data Science. I love working with Large Lanuage Models, and Fine tuning of LLMs using PEFT techniques like LoRA is area that specially piques my interest. In my current research I have been able to finetune RoBERTa architecture to classify nouns into previous undefined categories like Shape and Non-Shape Nouns, and verbs in Result and Manner verbs using my own annotated large corpus of 2.5 million words. I am working towards leveraging RLHF technique to Supervise Fine Tune LlaMA model to perform similar calssification tasks which will enable to create an explainable model.
 
 - **🔭 Current Work:** Developing multimodal Active Speaker Localization and Child Speech Modelling in the UB Deep Learning Lab.
-- **🌱 Learning:** Advanced NLP techniques, Multimodal Machine Learning, Speech Processing, and Ethical AI.
-- **👯 Looking to Collaborate On:** Innovative projects involving NLP, Machine Learning, AI-driven solutions, and data-centric applications.
-- **📫 How to Reach Me:** [LinkedIn](https://www.linkedin.com/in/divyesh-pratap-singh/) | dsingh27@buffalo.edu
-- **⚡ Fun Fact:** I’m passionate about leveraging AI to make impactful changes in child language development and automotive safety.
-
+- **🌱 Learning:** Advanced NLP techniques, Multimodal Machine Learning, Large Language Models, Speech Processing, and Human Pose Estimation.
+- **👯 Looking to Collaborate On:** Innovative projects involving RAG systems, and LLM Fine Tuning.
+- **📫 How to Reach Me:** [LinkedIn](https://www.linkedin.com/in/divyesh-pratap-singh/) | singh_divyesh@outlook.com
+<!-- **⚡ Fun Fact:** I’m passionate about leveraging AI to make impactful changes in child language development and automotive safety. -->
 ---
 
 ## 🚀 Projects
 
+### [NVson- Noun Verb Syntax Observation Network](https://github.com/Divyeshpratap/AutomobileInspector) 
+*March 2024 ‑ August 2024*
+[![NVson](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/Divyeshpratap/NVson)
+
+- **NVson:** Develop an explainatory model to classify words into previously undefined categoeries
+- **Functionality:** Classifies nouns into Shape and Non-Shape Nouns, and verbs in Result and Manner verb.
+- **Technologies:** GPT 4o-mini, LLama 3.1 405B, Roberta base, and SpaCy Transformers.
+- **Achievements:** Self Annotated a large dataset of 2.5 million words with new POS tags by leveraging GPT to replace human annotators, achieving high classification accuracy (94% on Shape/Non-shape nouns and 97% on Result/Manner Verbs).
+
 ### [Automobile Inspector: AI-Powered Car Damage Detection and Chatbot Platform](https://github.com/Divyeshpratap/AutomobileInspector)  
 *June 2024 ‑ August 2024*
 
-![Automobile Inspector](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)
+[![Automobile Inspector](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/Divyeshpratap/A.I.-AutoInspector/)
 
-- **Deployment:** AI-driven web application integrating computer vision and NLP for comprehensive car repair solutions.
+- **Deployment:** AI-driven web application integrating computer vision and NLP for comprehensive car repair solutions, and on-line support.
 - **Technologies:** Mask R-CNN, ResNet-101, Deformable Convolution Networks (DCN), Flask, Ollama, Llama, Facebook FAISS.
 - **Achievements:** Streamlined damage detection and cost estimation processes, enhancing user experience with a user-centric application.
-
-### [ChildSpeak: LLM Powered Early Speech Pattern Analysis for Child Language Development](https://github.com/Divyeshpratap/ChildSpeak)  
-*April 2024 ‑ Present*
-
-![ChildSpeak](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)
-
-- **Functionality:** Identifies toddlers as Late Talkers or Typically Developing using parent-child audio conversations.
-- **Technologies:** OpenAI Whisper, Pyannote, GPT 4o-mini, LLama 3.1 405B, Roberta base.
-- **Achievements:** Annotated a large dataset with new POS tags, achieving high classification accuracy (94% on Shape/Non-shape nouns and 97% on Result/Manner Verbs).
-
 ---
 
 ## 💼 Experience
@@ -75,17 +76,19 @@ I'm **Divyesh Pratap Singh**, a dedicated **Machine Learning** and **Software En
 ### Research Assistant  
 **The Research Foundation SUNY, University at Buffalo | NY, USA**  
 *April 2024 ‑ Present*
+[![ChildSpeak](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/Divyeshpratap/ChildSpeak-Early-Speech-Pattern-Analysis-using-NLP-for-Language-Development)
 
-- **ChildSpeak Project:** Designed a causal modeling pipeline for speech pattern analysis in children.
-- **Technologies Used:** OpenAI Whisper, Pyannote, GPT 4o-mini, LLama 3.1 405B, Roberta base.
-- **Achievements:** Achieved 94% accuracy in classifying Shape/Non-shape nouns and 97% on Result/Manner Verbs.
+- **ChildSpeak Project:** Designing a causal modeling pipeline for speech pattern analysis in children.
+- **Functionality:** Identifies toddlers as Late Talkers or Typically Developing using parent-child audio conversations.
+- **Technologies:** OpenAI Whisper, Pyannote, SpaCy Transformers.
+- **Status:** Transcription Pipeline, and classification pipeline completed. Causal modelling in progress.
 
 ### Data Science Lead Assistant Manager  
 **EXL Analytics | Gurugram, India**  
 *November 2021 ‑ June 2023*
 
 - **Continuous Data Integrity Tool:** Implemented data quality controls for Credit & Fraud risk models.
-- **Risk Strategy and Remediation Tool:** Developed strategies to adjust credit lines based on transactional behaviors.
+- **Risk Strategy and Remediation Tool:** Developed strategies to adjust credit lines, assign/ revoke adverse actions based on transactional behaviors.
 - **Achievements:** Reduced delinquent losses by 5% and manual verification efforts by 30%.
 
 ### Analytics Deputy Manager  
@@ -108,7 +111,7 @@ I'm **Divyesh Pratap Singh**, a dedicated **Machine Learning** and **Software En
 **Thapar University | India**  
 *July 2013 ‑ June 2017* | GPA: 8.23/10
 
-**Courses:** Machine Learning, Pattern Recognition, Computer Vision & Image Processing, Reinforcement Learning, Deep Learning, Information Retrieval, Linear Algebra.
+**Courses:** Machine Learning, Pattern Recognition, Computer Vision & Image Processing, Reinforcement Learning, Deep Learning, Advance Algorithm Analysis & Data Structures, Data Intensive Computing, Information Retrieval, Numerical Math.
 
 ---
 
