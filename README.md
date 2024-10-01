@@ -10,7 +10,7 @@
 
 - **🔭 Current Work:**  I am pursuing Masters in Artificial Intelligence at Univesity at Buffalo, New York where I work as a Graduate Research Assistant at the SUNY Research Foundation, focusing on multimodal Active Speaker Localization, & NLP driven Child Speech modelling. In my current research I have finetuned RoBERTa architecture to classify nouns into previous undefined categories like Shape and Non-Shape Nouns, and verbs in Result and Manner verbs using my own annotated large corpus of 2.5 million words. I am working towards leveraging RLHF technique to Supervise Fine Tune LlaMA model to perform similar calssification tasks which will enable to create an explainable model.
 
-- **🚀 Experience:**  I have previously worked with Suzuki Motors (India’s largest automobile manufacturer), and one of the top three credit card companies in the USA (full-time contract role). I impacted areas ranging from logistics and sales to risk management and credit policies. Proficient in Agile and Kanban, my journey encompasses launching end-to-end projects cross-functionally via CI/CD.Currently, I work as a Graduate Research Assistant at the SUNY Research Foundation, focusing on multimodal Active Speaker Localization, & NLP driven Child Speech modelling.
+- **👨‍💼 Experience:**  I have previously worked with Suzuki Motors (India’s largest automobile manufacturer), and one of the top three credit card companies in the USA (full-time contract role). I impacted areas ranging from logistics and sales to risk management and credit policies. Proficient in Agile and Kanban, my journey encompasses launching end-to-end projects cross-functionally via CI/CD.Currently, I work as a Graduate Research Assistant at the SUNY Research Foundation, focusing on multimodal Active Speaker Localization, & NLP driven Child Speech modelling.
 
 - **👯 Looking to Collaborate On:** Innovative projects involving RAG systems, and LLM Fine Tuning.
 
@@ -26,7 +26,7 @@
 
 <!-- Machine Learning & Data Science -->
 ### Machine Learning & Data Science:
-<code><a href="https://scikit-learn.org/"><img height="30" alt="scikit-learn" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg"></a></code>
+<code><a href="https://scikit-learn.org/"><img height="30" alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white"></a></code>
 <code><a href="https://pytorch.org/"><img height="30" alt="PyTorch" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg"></a></code>
 <code><a href="https://www.tensorflow.org/"><img height="30" alt="TensorFlow" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"></a></code>
 <code><a href="https://huggingface.co/"><img height="30" alt="Hugging Face" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/huggingface/huggingface-original.svg"></a></code>
@@ -90,17 +90,6 @@
   <img src="https://i.imgur.com/dBaSKWF.gif" alt="Footer Animation" height="20" width="100%">
 </p>
 
----
-
-## 👨‍💼 About Me
-
-I'm currently pursuing Masters in Artificial Intelligence at University at Buffalo, and actively looking for Full-Time opportunities in Machine Learning, and Data Science. I love working with Large Lanuage Models, and Fine tuning of LLMs using PEFT techniques like LoRA is area that specially piques my interest. In my current research I have been able to finetune RoBERTa architecture to classify nouns into previous undefined categories like Shape and Non-Shape Nouns, and verbs in Result and Manner verbs using my own annotated large corpus of 2.5 million words. I am working towards leveraging RLHF technique to Supervise Fine Tune LlaMA model to perform similar calssification tasks which will enable to create an explainable model.
-
-- **🔭 Current Work:** Developing multimodal Active Speaker Localization and Child Speech Modelling in the UB Deep Learning Lab.
-- **🌱 Learning:** Advanced NLP techniques, Multimodal Machine Learning, Large Language Models, Speech Processing, and Human Pose Estimation.
-- **👯 Looking to Collaborate On:** Innovative projects involving RAG systems, and LLM Fine Tuning.
-- **📫 How to Reach Me:** [LinkedIn](https://www.linkedin.com/in/divyesh-pratap-singh/) | singh_divyesh@outlook.com
-<!-- **⚡ Fun Fact:** I’m passionate about leveraging AI to make impactful changes in child language development and automotive safety. -->
 ---
 
 ## 🚀 Projects
