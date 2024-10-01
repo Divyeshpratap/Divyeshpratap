@@ -150,14 +150,8 @@
 ## 📂 Featured Repositories
 
 ### Full Stack employing Computer Vision and RAG Chatbot
-<h3 align="left">📂 Featured Repositories:</h3>
-| <a href="https://github.com/Divyeshpratap/ChildSpeak-Early-Speech-Pattern-Analysis-using-NLP-for-Language-Development"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Divyeshpratap&repo=ChildSpeak-Early-Speech-Pattern-Analysis-using-NLP-for-Language-Development&theme=algolia&hide_border=false"></a> | <a href="https://github.com/Divyeshpratap/A.I.-AutoInspector"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Divyeshpratap&repo=A.I.-AutoInspector&theme=algolia&hide_border=false"></a> |
-|:---:|:---:|
+|<a href="https://github.com/Divyeshpratap/A.I.-AutoInspector"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Divyeshpratap&repo=A.I.-AutoInspector&theme=algolia&hide_border=false"></a> |
 
-
-### NLP
-### [ChildSpeak - Early Speech Pattern Analysis Using NLP for Language Development](https://github.com/Divyeshpratap/ChildSpeak-Early-Speech-Pattern-Analysis-using-NLP-for-Language-Development)
-[![ChildSpeak](https://github-readme-stats.vercel.app/api/pin/?username=Divyeshpratap&repo=ChildSpeak-Early-Speech-Pattern-Analysis-using-NLP-for-Language-Development&theme=algolia&hide_border=false)](https://github.com/Divyeshpratap/ChildSpeak-Early-Speech-Pattern-Analysis-using-NLP-for-Language-Development)
 
 
 ## 📫 Connect With Me
