@@ -4,7 +4,60 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+New&size=30&duration=5000&color=%23F7F7F7&background=%23000000&center=true&vCenter=true&width=800&height=100&lines=Welcome+to+my+GitHub+Page!)](https://git.io/typing-svg)
 
 <!-- Intro Section -->
-### I'm Divyesh Pratap Singh, a Machine Learning and Data Science Engineer with over 5 years of experience in the automotive and banking industries. Currently, I work as a Graduate Research Assistant at the SUNY Research Foundation, focusing on multimodal Active Speaker Localization, & NLP driven Child Speech modelling.
+- 👋 Greetings fellow ML enthusiasts, I'm Divyesh,I am an ML engineer with over 5 years of experience solving problems in automotive and finance sectors, leveraging AI and advanced analytics.  I am actively looking for Full-Time opportunities in Machine Learning, and Data Science.
+
+-   **🌱 Learning:** I am proficient in leveraging various Machine Learning frameworks, and have built systems using SOTA architectures like BERT, RAG, and LLM models like Llama and GPT.
+
+- **🔭 Current Work:**  I am pursuing Masters in Artificial Intelligence at Univesity at Buffalo, New York where I work as a Graduate Research Assistant at the SUNY Research Foundation, focusing on multimodal Active Speaker Localization, & NLP driven Child Speech modelling. In my current research I have finetuned RoBERTa architecture to classify nouns into previous undefined categories like Shape and Non-Shape Nouns, and verbs in Result and Manner verbs using my own annotated large corpus of 2.5 million words. I am working towards leveraging RLHF technique to Supervise Fine Tune LlaMA model to perform similar calssification tasks which will enable to create an explainable model.
+
+- **🚀 Experience:**  I have previously worked with Suzuki Motors (India’s largest automobile manufacturer), and one of the top three credit card companies in the USA (full-time contract role). I impacted areas ranging from logistics and sales to risk management and credit policies. Proficient in Agile and Kanban, my journey encompasses launching end-to-end projects cross-functionally via CI/CD.Currently, I work as a Graduate Research Assistant at the SUNY Research Foundation, focusing on multimodal Active Speaker Localization, & NLP driven Child Speech modelling.
+
+- **👯 Looking to Collaborate On:** Innovative projects involving RAG systems, and LLM Fine Tuning.
+
+- - **📫 How to Reach Me:** [LinkedIn](https://www.linkedin.com/in/divyesh-pratap-singh/) | singh_divyesh@outlook.com
+
+<!-- Programming Languages -->
+### Programming Languages:
+<code><a href="https://www.python.org/"><img height="30" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></a></code>
+<code><a href="https://www.mysql.com/"><img height="30" alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"></a></code>
+<code><a href="https://www.gnu.org/software/bash/"><img height="30" alt="Bash" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"></a></code>
+<code><a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img height="30" alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></a></code>
+
+
+<!-- Machine Learning & Data Science -->
+### Machine Learning & Data Science:
+<code><a href="https://scikit-learn.org/"><img height="30" alt="scikit-learn" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg"></a></code>
+<code><a href="https://pytorch.org/"><img height="30" alt="PyTorch" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg"></a></code>
+<code><a href="https://www.tensorflow.org/"><img height="30" alt="TensorFlow" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"></a></code>
+<code><a href="https://huggingface.co/"><img height="30" alt="Hugging Face" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/huggingface/huggingface-original.svg"></a></code>
+<code><a href="https://github.com/huggingface/transformers"><img height="30" alt="Transformers" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/transformers/transformers-original.svg"></a></code>
+<code><a href="https://github.com/huggingface/peft"><img height="30" alt="LORA" src="https://raw.githubusercontent.com/huggingface/peft/main/docs/source/_static/lora.png"></a></code>
+
+<!-- Frameworks & Libraries -->
+### Frameworks & Libraries:
+<code><a href="https://flask.palletsprojects.com/"><img height="30" alt="Flask" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg"></a></code>
+<code><a href="https://spacy.io/"><img height="30" alt="spaCy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spacy/spacy-original.svg"></a></code>
+<code><a href="https://www.nltk.org/"><img height="30" alt="NLTK" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nltk/nltk-original.svg"></a></code>
+<code><a href="https://github.com/openai/gpt-3"><img height="30" alt="OpenAI GPT" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openai/openai-original.svg"></a></code>
+<code><a href="https://github.com/facebookresearch/llama"><img height="30" alt="LLaMA" src="https://raw.githubusercontent.com/facebookresearch/llama/main/docs/logo.svg"></a></code>
+<code><a href="https://github.com/pytorch/fairseq/tree/main/examples/roberta"><img height="30" alt="RoBERTa" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/roberta/roberta-original.svg"></a></code>
+
+<!-- Big Data & Databases -->
+### Big Data & Databases:
+<code><a href="https://hadoop.apache.org/"><img height="30" alt="Hadoop" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg"></a></code>
+<code><a href="https://hive.apache.org/"><img height="30" alt="Hive" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hive/hive-original.svg"></a></code>
+<code><a href="https://spark.apache.org/docs/latest/api/python/"><img height="30" alt="PySpark" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg"></a></code>
+<code><a href="https://lucene.apache.org/solr/"><img height="30" alt="Apache Solr" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solr/solr-original.svg"></a></code>
+
+<!-- Tools & Platforms -->
+### Tools & Platforms:
+<code><a href="https://www.atlassian.com/software/jira"><img height="30" alt="JIRA" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg"></a></code>
+<code><a href="https://git-scm.com/"><img height="30" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></a></code>
+<code><a href="https://kubernetes.io/"><img height="30" alt="Kubernetes" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg"></a></code>
+<code><a href="https://www.openshift.com/"><img height="30" alt="OpenShift" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openshift/openshift-original.svg"></a></code>
+<code><a href="https://cloud.google.com/"><img height="30" alt="GCP" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"></a></code>
+
+ 
 <!-- Visitor Count -->
 ![Visitor Count](https://komarev.com/ghpvc/?username=Divyeshpratap&label=Profile%20views&color=FF5733&style=flat)
 
