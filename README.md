@@ -17,45 +17,35 @@
 - - **📫 How to Reach Me:** [LinkedIn](https://www.linkedin.com/in/divyesh-pratap-singh/) | singh_divyesh@outlook.com
 
 <!-- Programming Languages -->
-### Programming Languages:
+### Programming Languages and frameworks:
 <code><a href="https://www.python.org/"><img height="30" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></a></code>
 <code><a href="https://www.mysql.com/"><img height="30" alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"></a></code>
-<code><a href="https://www.gnu.org/software/bash/"><img height="30" alt="Bash" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"></a></code>
 <code><a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img height="30" alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></a></code>
-
+<code><a href="https://flask.palletsprojects.com/"><img height="30" alt="Flask" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg"></a></code>
+<code><a href="https://www.atlassian.com/software/jira"><img height="30" alt="JIRA" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg"></a></code>
+<code><a href="https://git-scm.com/"><img height="30" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></a></code>
+<code><a href="https://kubernetes.io/"><img height="30" alt="Kubernetes" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg"></a></code>
+<code><a href="https://www.openshift.com/"><img height="30" alt="OpenShift" src="https://img.shields.io/badge/OpenShift-EE0000?logo=openshift&logoColor=white"></a></code>
+<code><a href="https://cloud.google.com/"><img height="30" alt="GCP" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"></a></code>
 
 <!-- Machine Learning & Data Science -->
 ### Machine Learning & Data Science:
 <code><a href="https://scikit-learn.org/"><img height="30" alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white"></a></code>
 <code><a href="https://pytorch.org/"><img height="30" alt="PyTorch" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg"></a></code>
 <code><a href="https://www.tensorflow.org/"><img height="30" alt="TensorFlow" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"></a></code>
-<code><a href="https://huggingface.co/"><img height="30" alt="Hugging Face" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/huggingface/huggingface-original.svg"></a></code>
-<code><a href="https://github.com/huggingface/transformers"><img height="30" alt="Transformers" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/transformers/transformers-original.svg"></a></code>
-<code><a href="https://github.com/huggingface/peft"><img height="30" alt="LORA" src="https://raw.githubusercontent.com/huggingface/peft/main/docs/source/_static/lora.png"></a></code>
-
-<!-- Frameworks & Libraries -->
-### Frameworks & Libraries:
-<code><a href="https://flask.palletsprojects.com/"><img height="30" alt="Flask" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg"></a></code>
-<code><a href="https://spacy.io/"><img height="30" alt="spaCy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spacy/spacy-original.svg"></a></code>
-<code><a href="https://www.nltk.org/"><img height="30" alt="NLTK" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nltk/nltk-original.svg"></a></code>
-<code><a href="https://github.com/openai/gpt-3"><img height="30" alt="OpenAI GPT" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openai/openai-original.svg"></a></code>
-<code><a href="https://github.com/facebookresearch/llama"><img height="30" alt="LLaMA" src="https://raw.githubusercontent.com/facebookresearch/llama/main/docs/logo.svg"></a></code>
-<code><a href="https://github.com/pytorch/fairseq/tree/main/examples/roberta"><img height="30" alt="RoBERTa" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/roberta/roberta-original.svg"></a></code>
-
-<!-- Big Data & Databases -->
-### Big Data & Databases:
 <code><a href="https://hadoop.apache.org/"><img height="30" alt="Hadoop" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg"></a></code>
-<code><a href="https://hive.apache.org/"><img height="30" alt="Hive" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hive/hive-original.svg"></a></code>
 <code><a href="https://spark.apache.org/docs/latest/api/python/"><img height="30" alt="PySpark" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg"></a></code>
-<code><a href="https://lucene.apache.org/solr/"><img height="30" alt="Apache Solr" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solr/solr-original.svg"></a></code>
+<code><a href="https://huggingface.co/"><img height="30" alt="Hugging Face" src="https://img.shields.io/badge/Hugging%20Face-FCA121?logo=huggingface&logoColor=white"></a></code>
+<code><a href="https://github.com/huggingface/transformers"><img height="30" alt="Transformers" src="https://img.shields.io/badge/Transformers-FF5733?logo=transformers&logoColor=white"></a></code>
+<code><a href="https://github.com/huggingface/peft"><img height="30" alt="LoRA" src="https://img.shields.io/badge/LoRA-FF5733?logo=generic&logoColor=white"></a></code>
+<code><a href="https://hive.apache.org/"><img height="30" alt="Hive" src="https://img.shields.io/badge/Hive-EF6C00?logo=apachehive&logoColor=white"></a></code>
+<code><a href="https://lucene.apache.org/solr/"><img height="30" alt="Solr" src="https://img.shields.io/badge/Solr-000000?logo=apachesolr&logoColor=white"></a></code>
+<code><a href="https://spacy.io/"><img height="30" alt="spaCy" src="https://img.shields.io/badge/spaCy-000000?logo=spacy&logoColor=white"></a></code>
+<code><a href="https://www.nltk.org/"><img height="30" alt="NLTK" src="https://img.shields.io/badge/NLTK-000000?logo=nltk&logoColor=white"></a></code>
+<code><a href="https://github.com/openai/gpt-3"><img height="30" alt="GPT" src="https://img.shields.io/badge/GPT-343541?logo=openai&logoColor=white"></a></code>
+<code><a href="https://github.com/facebookresearch/llama"><img height="30" alt="LLaMA" src="https://img.shields.io/badge/LLaMA-00BFFF?logo=llama&logoColor=white"></a></code>
 
-<!-- Tools & Platforms -->
-### Tools & Platforms:
-<code><a href="https://www.atlassian.com/software/jira"><img height="30" alt="JIRA" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg"></a></code>
-<code><a href="https://git-scm.com/"><img height="30" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></a></code>
-<code><a href="https://kubernetes.io/"><img height="30" alt="Kubernetes" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg"></a></code>
-<code><a href="https://www.openshift.com/"><img height="30" alt="OpenShift" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openshift/openshift-original.svg"></a></code>
-<code><a href="https://cloud.google.com/"><img height="30" alt="GCP" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"></a></code>
+
 
  
 <!-- Visitor Count -->
