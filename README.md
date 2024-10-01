@@ -16,8 +16,9 @@
 
 - - **📫 How to Reach Me:** [LinkedIn](https://www.linkedin.com/in/divyesh-pratap-singh/) | singh_divyesh@outlook.com
 
-<!-- Programming Languages -->
-### Programming Languages and frameworks:
+## 🛠️ Languages and Tools
+
+### Programming Languages and Frameworks:
 <code><a href="https://www.python.org/"><img height="30" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></a></code>
 <code><a href="https://www.mysql.com/"><img height="30" alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"></a></code>
 <code><a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img height="30" alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></a></code>
@@ -27,8 +28,8 @@
 <code><a href="https://kubernetes.io/"><img height="30" alt="Kubernetes" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg"></a></code>
 <code><a href="https://www.openshift.com/"><img height="30" alt="OpenShift" src="https://img.shields.io/badge/OpenShift-EE0000?logo=openshift&logoColor=white"></a></code>
 <code><a href="https://cloud.google.com/"><img height="30" alt="GCP" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"></a></code>
+<code><a href="https://lucene.apache.org/solr/"><img height="30" alt="Solr" src="https://img.shields.io/badge/Solr-000000?logo=apachesolr&logoColor=white"></a></code>
 
-<!-- Machine Learning & Data Science -->
 ### Machine Learning & Data Science:
 <code><a href="https://scikit-learn.org/"><img height="30" alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white"></a></code>
 <code><a href="https://pytorch.org/"><img height="30" alt="PyTorch" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg"></a></code>
@@ -39,12 +40,11 @@
 <code><a href="https://github.com/huggingface/transformers"><img height="30" alt="Transformers" src="https://img.shields.io/badge/Transformers-FF5733?logo=transformers&logoColor=white"></a></code>
 <code><a href="https://github.com/huggingface/peft"><img height="30" alt="LoRA" src="https://img.shields.io/badge/LoRA-FF5733?logo=generic&logoColor=white"></a></code>
 <code><a href="https://hive.apache.org/"><img height="30" alt="Hive" src="https://img.shields.io/badge/Hive-EF6C00?logo=apachehive&logoColor=white"></a></code>
-<code><a href="https://lucene.apache.org/solr/"><img height="30" alt="Solr" src="https://img.shields.io/badge/Solr-000000?logo=apachesolr&logoColor=white"></a></code>
 <code><a href="https://spacy.io/"><img height="30" alt="spaCy" src="https://img.shields.io/badge/spaCy-000000?logo=spacy&logoColor=white"></a></code>
 <code><a href="https://www.nltk.org/"><img height="30" alt="NLTK" src="https://img.shields.io/badge/NLTK-000000?logo=nltk&logoColor=white"></a></code>
 <code><a href="https://github.com/openai/gpt-3"><img height="30" alt="GPT" src="https://img.shields.io/badge/GPT-343541?logo=openai&logoColor=white"></a></code>
 <code><a href="https://github.com/facebookresearch/llama"><img height="30" alt="LLaMA" src="https://img.shields.io/badge/LLaMA-00BFFF?logo=llama&logoColor=white"></a></code>
-
+<code><a href="https://github.com/pytorch/fairseq/tree/main/examples/roberta"><img height="30" alt="RoBERTa" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/roberta/roberta-original.svg"></a></code>
 
 
  
@@ -84,7 +84,7 @@
 
 ## 🚀 Projects
 
-### [NVson- Noun Verb Syntax Observation Network](https://github.com/Divyeshpratap/AutomobileInspector) 
+### [NVson- Noun Verb Syntax Observation Network](https://github.com/Divyeshpratap/NVson) 
 *March 2024 ‑ August 2024*
 [![NVson](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/Divyeshpratap/NVson)
 
@@ -93,7 +93,7 @@
 - **Technologies:** GPT 4o-mini, LLama 3.1 405B, Roberta base, and SpaCy Transformers.
 - **Achievements:** Self Annotated a large dataset of 2.5 million words with new POS tags by leveraging GPT to replace human annotators, achieving high classification accuracy (94% on Shape/Non-shape nouns and 97% on Result/Manner Verbs).
 
-### [Automobile Inspector: AI-Powered Car Damage Detection and Chatbot Platform](https://github.com/Divyeshpratap/AutomobileInspector)  
+### [Automobile Inspector: AI-Powered Car Damage Detection and Chatbot Platform](https://github.com/Divyeshpratap/A.I.-AutoInspector/)  
 *June 2024 ‑ August 2024*
 
 [![Automobile Inspector](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/Divyeshpratap/A.I.-AutoInspector/)
