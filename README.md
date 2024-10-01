@@ -6,7 +6,12 @@
 </p>
 
 <!-- Dynamic Typing SVG for Welcome Message -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+New&size=30&duration=5000&color=%23F7F7F7&background=%23000000&center=true&vCenter=true&width=800&height=100&lines=Welcome+to+my+GitHub+Page!)](https://git.io/typing-svg)
+<!-- Centered Typing SVG -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=30&duration=5000&color=%23F7F7F7&background=%23000000&center=true&vCenter=true&width=800&height=100&lines=Welcome+to+my+GitHub+Page!" alt="Typing SVG">
+  </a>
+</div>
 
 <!-- Intro Section -->
 - 👋 **Greetings fellow ML enthusiasts!** I'm **Divyesh**, an ML engineer with over **5 years of experience** solving problems in the **automotive** and **finance** sectors, leveraging **AI** and advanced **analytics**. I am actively looking for **full-time opportunities** in **Machine Learning** and **Data Science**.
