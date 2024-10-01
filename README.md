@@ -1,7 +1,9 @@
 # 👋 Hi there, I'm Divyesh Pratap Singh
 
 <!-- Resume and LeetCode Links -->
-- 📄 [Resume](./resume.pdf) | 🐱‍💻 [LeetCode](https://leetcode.com/u/DivyeshSingh/)
+<p align="center"> <a 
+  - 📄 [Resume](./resume.pdf) | 🐱‍💻 [LeetCode](https://leetcode.com/u/DivyeshSingh/)
+</a></p>
 
 <!-- Dynamic Typing SVG for Welcome Message -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+New&size=30&duration=5000&color=%23F7F7F7&background=%23000000&center=true&vCenter=true&width=800&height=100&lines=Welcome+to+my+GitHub+Page!)](https://git.io/typing-svg)
