@@ -123,8 +123,50 @@
 
 ## 💼 Experience
 ### Research Assistant  
-<img src="https://github.com/user-attachments/assets/b20abb70-5506-4025-991b-a0e7a6ac6f64" alt="University at Buffalo" width="25"> **The Research Foundation SUNY, University at Buffalo | NY, USA**  
+<img src="https://github.com/user-attachments/assets/b20abb70-5506-4025-991b-a0e7a6ac6f64" alt="University at Buffalo" width="35"> **The Research Foundation SUNY, University at Buffalo | NY, USA**  
 *April 2024 ‑ Present*  
+[![ChildSpeak](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/Divyeshpratap/ChildSpeak-Early-Speech-Pattern-Analysis-using-NLP-for-Language-Development)
+
+- **ChildSpeak Project:** Designing a **causal modeling pipeline** for speech pattern analysis in children.
+- **Functionality:** Identifies toddlers as **Late Talkers** or **Typically Developing** using parent-child audio conversations.
+- **Technologies:** **OpenAI Whisper**, **Pyannote**, **SpaCy Transformers**.
+- **Status:** Completed transcription and classification pipelines. **Causal modeling** in progress. Shape/ Non-Shape accuracy of **94%** and Result/ Manner verbs at **97%**.
+
+---
+
+### Data Science Lead Assistant Manager  
+<img src="https://github.com/user-attachments/assets/0deebc69-1e78-49e7-9ee0-cce85f96541c" alt="EXL Analytics" width="35"> **EXL Analytics | Gurugram, India**  
+*November 2021 ‑ June 2023*
+
+- **Continuous Data Integrity Tool:** Implemented data quality controls for **Credit & Fraud risk models**.
+- **Risk Strategy and Remediation Tool:** Developed strategies to adjust credit lines and manage adverse actions based on transactional behaviors.
+- **Achievements:** Reduced delinquent losses by **5%** and manual verification efforts by **30%**. Engineered a **scalable anomaly detection framework** optimizing real-time data fidelity.
+
+---
+
+### Analytics Deputy Manager  
+<img src="https://github.com/user-attachments/assets/35029651-c548-4eff-8af2-23bb3a473240" alt="Suzuki Motors" width="35"> **Suzuki Motors India Limited | Gurugram, India**  
+*July 2017 ‑ November 2021*
+
+- **Inventory Management & SKU Demand Forecasting:** Enhanced inventory turnover ratio, leading to **annual cost savings of $7 million**.
+- **Technologies Used:** **PySpark**, **Gradient Boosting**, **Hadoop**, **HBase**, **Hive**, **Spring MVC**, **JAVA**.
+- **Achievements:** Increased inventory turnover ratio from **3.2** to **4.7** leading to annual **cost savings of $7 million** by reducing wastage.
+
+---
+### Research Assistant  
+<table style="border: none; width: 100%;">
+  <tr>
+    <td width="5%" style="border: none;">
+      <img src="https://github.com/user-attachments/assets/b20abb70-5506-4025-991b-a0e7a6ac6f64" alt="University at Buffalo" width="25">
+    </td>
+    <td width="70%" style="border: none;">
+      **The Research Foundation SUNY, University at Buffalo | NY, USA**
+    </td>
+    <td width="25%" align="right" style="border: none;">
+      *April 2024 ‑ Present*
+    </td>
+  </tr>
+</table>  
 [![ChildSpeak](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/Divyeshpratap/ChildSpeak-Early-Speech-Pattern-Analysis-using-NLP-for-Language-Development)
 
 - **ChildSpeak Project:** Designing a **causal modeling pipeline** for speech pattern analysis in children.
@@ -135,8 +177,19 @@
 ---
 
 ### Data Science Lead Assistant Manager  
-<img src="https://github.com/user-attachments/assets/0deebc69-1e78-49e7-9ee0-cce85f96541c" alt="EXL Analytics" width="25"> **EXL Analytics | Gurugram, India**  
-*November 2021 ‑ June 2023*
+<table style="border: none; width: 100%;">
+  <tr>
+    <td width="5%" style="border: none;">
+      <img src="https://github.com/user-attachments/assets/0deebc69-1e78-49e7-9ee0-cce85f96541c" alt="EXL Analytics" width="25">
+    </td>
+    <td width="70%" style="border: none;">
+      **EXL Analytics | Gurugram, India**
+    </td>
+    <td width="25%" align="right" style="border: none;">
+      *November 2021 ‑ June 2023*
+    </td>
+  </tr>
+</table>  
 
 - **Continuous Data Integrity Tool:** Implemented data quality controls for **Credit & Fraud risk models**.
 - **Risk Strategy and Remediation Tool:** Developed strategies to adjust credit lines and manage adverse actions based on transactional behaviors.
@@ -145,14 +198,25 @@
 ---
 
 ### Analytics Deputy Manager  
-<img src="https://github.com/user-attachments/assets/35029651-c548-4eff-8af2-23bb3a473240" alt="Suzuki Motors" width="25"> **Suzuki Motors India Limited | Gurugram, India**  
-*July 2017 ‑ November 2021*
+<table style="border: none; width: 100%;">
+  <tr>
+    <td width="5%" style="border: none;">
+      <img src="https://github.com/user-attachments/assets/35029651-c548-4eff-8af2-23bb3a473240" alt="Suzuki Motors" width="25">
+    </td>
+    <td width="70%" style="border: none;">
+      **Suzuki Motors India Limited | Gurugram, India**
+    </td>
+    <td width="25%" align="right" style="border: none;">
+      *July 2017 ‑ November 2021*
+    </td>
+  </tr>
+</table>  
 
 - **Inventory Management & SKU Demand Forecasting:** Enhanced inventory turnover ratio, leading to **annual cost savings of $7 million**.
 - **Technologies Used:** **PySpark**, **Gradient Boosting**, **Hadoop**, **HBase**, **Hive**, **Spring MVC**, **JAVA**.
 - **Achievements:** Increased inventory turnover ratio from **3.2** to **4.7**.
 
----
+
 
 ## 🎓 Education
 
