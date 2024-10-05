@@ -123,18 +123,18 @@
 
 ## 💼 Experience
 ### Research Assistant  
-<img src="https://github.com/user-attachments/assets/b20abb70-5506-4025-991b-a0e7a6ac6f64" alt="University at Buffalo" width="45"> **The Research Foundation SUNY, University at Buffalo | NY, USA**    (*April 2024 ‑ Present*)
-[![ChildSpeak](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/Divyeshpratap/ChildSpeak-Early-Speech-Pattern-Analysis-using-NLP-for-Language-Development)
+<img src="https://github.com/user-attachments/assets/b20abb70-5506-4025-991b-a0e7a6ac6f64" alt="University at Buffalo" width="30"> **The Research Foundation SUNY, University at Buffalo | NY, USA**    (*April 2024 ‑ Present*)
+[![ChildSpeak](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/Divyeshpratap/ChildSpeak-Early-Speech-Pattern-Analysis-using-NLP-for-Language-Development) (Private Repo)
 
-- **ChildSpeak Project:** Designing a **causal modeling pipeline** for speech pattern analysis in children.
+- **ChildSpeak Project:** Designing a **causal modeling pipeline** for speech pattern analysis in 12-40 months old children.
 - **Functionality:** Identifies toddlers as **Late Talkers** or **Typically Developing** using parent-child audio conversations.
-- **Technologies:** **OpenAI Whisper**, **Pyannote**, **SpaCy Transformers**.
-- **Status:** Completed transcription and classification pipelines. **Causal modeling** in progress. Shape/ Non-Shape accuracy of **94%** and Result/ Manner verbs at **97%**.
+- **Technologies:** **OpenAI Whisper**, **TalkNet**, **VocaLiST**, **Pyannote**, **SpaCy Transformers**.
+- **Status:** Completed transcription, speaker diarization and classification pipelines. **Causal modeling** in progress. Shape/ Non-Shape accuracy of **94%** and Result/ Manner verbs at **97%**.
 
 ---
 
 ### Data Science Lead Assistant Manager  
-<img src="https://github.com/user-attachments/assets/0deebc69-1e78-49e7-9ee0-cce85f96541c" alt="EXL Analytics" width="45"> **EXL Analytics | Gurugram, India**    (*November 2021 ‑ June 2023*)
+<img src="https://github.com/user-attachments/assets/0deebc69-1e78-49e7-9ee0-cce85f96541c" alt="EXL Analytics" width="40"> **EXL Analytics | Gurugram, India**    (*November 2021 ‑ June 2023*)
 
 - **Continuous Data Integrity Tool:** Implemented data quality controls for **Credit & Fraud risk models**.
 - **Risk Strategy and Remediation Tool:** Developed strategies to adjust credit lines and manage adverse actions based on transactional behaviors.
@@ -152,18 +152,19 @@
 
 ## 🎓 Education
 
-### Master of Science in Artificial Intelligence  
-<img src="https://github.com/user-attachments/assets/b20abb70-5506-4025-991b-a0e7a6ac6f64" alt="University at Buffalo" width="45"> **University at Buffalo, The State University of New York | NY, USA**  
-*August 2023 ‑ December 2024*
- GPA: **3.75/4.0**
+### **Master of Science in Artificial Intelligence**  
+<img src="https://github.com/user-attachments/assets/b20abb70-5506-4025-991b-a0e7a6ac6f64" alt="University at Buffalo" width="20"/> **University at Buffalo, The State University of New York**  
+*NY, USA | August 2023 ‑ December 2024*  
+**GPA**: 3.75/4.0
 
-### Bachelor of Technology in Electrical Engineering  
-<img src="https://github.com/user-attachments/assets/f12115cf-6fce-4590-87c4-867a14e46057" width="45"> **Thapar University | India**  
-*July 2013 ‑ June 2017* | GPA: **8.23/10**
+### **Bachelor of Technology in Electrical Engineering**  
+<img src="https://github.com/user-attachments/assets/f12115cf-6fce-4590-87c4-867a14e46057" width="20"/> **Thapar University**  
+*India | July 2013 ‑ June 2017*  
+**GPA**: 8.23/10  
 
-**Relevant Courses:** Machine Learning, Pattern Recognition, Computer Vision & Image Processing, Reinforcement Learning, Deep Learning, Advanced Algorithm Analysis & Data Structures, Data Intensive Computing, Information Retrieval, Numerical Math.
+**Relevant Courses**:  
+Machine Learning, Pattern Recognition, Computer Vision & Image Processing, Reinforcement Learning, Deep Learning, Advanced Algorithm Analysis & Data Structures, Data Intensive Computing, Information Retrieval, Numerical Math.
 
----
 
 ## 🛠️ Skills
 
