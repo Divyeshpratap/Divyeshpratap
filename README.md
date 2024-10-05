@@ -14,15 +14,17 @@
 </div>
 
 <!-- Intro Section -->
-- 👋 **Greetings fellow ML enthusiasts!** I'm **Divyesh**, an ML engineer with over **5 years of experience** solving problems in the **automotive** and **finance** sectors, leveraging **AI** and advanced **analytics**. I am actively looking for **full-time opportunities** in **Machine Learning** and **Data Science**.
+- 👋 **Greetings fellow ML enthusiasts!** I'm **Divyesh**, an experienced ML engineer with over **5 years of expertise** in solving problems in the **automotive** and **finance** sectors, leveraging **AI** and advanced **analytics**. I am pursuing a **Master's in Artificial Intelligence** at the **University at Buffalo**, New York where I work as a **Graduate Research Assistant** at the **SUNY Research Foundation** focusing on Deep Learning research.
   
-- **🌱 Learning:** I am proficient in leveraging various Machine Learning frameworks and have built systems using **SOTA architectures** like **BERT**, **RAG**, and **LLM models** such as **LLaMA** and **GPT**.
+- **🌱 Learning:** I specialize in developing Machine Learning systems using **SOTA architectures** like **BERT**, **RAG**, and **LLM models** such as **LLaMA** and **GPT**.
   
-- **🔭 Current Work:** I am pursuing a **Master's in Artificial Intelligence** at the **University at Buffalo**, New York, where I work as a **Graduate Research Assistant** at the **SUNY Research Foundation**, focusing on **multimodal Active Speaker Localization** and **NLP-driven Child Speech Modeling**. In my current research, I have **fine-tuned the RoBERTa architecture** to classify nouns into previously undefined categories like **Shape and Non-Shape Nouns**, and verbs into **Result and Manner Verbs** using my own annotated large corpus of **2.5 million words**. I am working towards leveraging **RLHF techniques** to **supervise fine-tune** the **LLaMA model** to perform similar classification tasks, enabling the creation of an **explainable model**.
+- **🔭 Current Work:** I am actively engaged in two interdisciplinary research projects as Research Assistant in distinct labs:
+- **Center for Unified Biometrics and Sensors (CUBS) lab**: Building a **real-time multimodal Active Speaker Localization** system that leverages audio and image embeddings extracted from video data. Using **LIP sync score** calculations, the system aims to accurately identify the active speaker in multi-speaker scenarios. This project is funded by **[NSF AI Institute for Transforming Education for Children with Speech and Language Processing Challenges](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2229873&HistoricalAwards=false)**.
+-  **Human Behaviour Modelling Lab**: Developing a causal model to identify Late Talkers among typically developing children by analyzing nuanced patterns in parent-child speech. I have fine-tuned **RoBERTa** to classify nouns and verbs into custom categories such as **Shape vs. Non-Shape Nouns and Result vs. Manner Verbs** using a **self-annotated corpus of 2.5 million words** and **12k vocab size**. I am currently working on leveraging **Reinforcement Learning with Human Feedback (RLHF)** to supervise and **fine-tune LLaMA** for similar classification tasks, with the ultimate goal of creating an explainable language model. This project is supported by the **[Buffalo Early Learning Lab](https://ubwp.buffalo.edu/buffaloearlylearning/)**.
   
-- **👨‍💼 Experience:** I have previously worked with **Suzuki Motors** (India’s largest automobile manufacturer) and one of the **top three credit card companies in the USA** (full-time contract role). I impacted areas ranging from **logistics and sales** to **risk management** and **credit policies**. Proficient in **Agile** and **Kanban**, my journey encompasses launching **end-to-end projects** cross-functionally via **CI/CD**. Currently, I work as a **Graduate Research Assistant** at the **SUNY Research Foundation**, focusing on **multimodal Active Speaker Localization** and **NLP-driven Child Speech Modeling**.
+- **👨‍💼 Experience:** I have previously worked with **Suzuki Motors** (India’s largest automobile manufacturer) and one of the **top three credit card companies in the USA** (full-time contract role). I impacted areas ranging from **poduction enginerring**, **logistics and sales** to **risk management** and **credit policies**. Proficient in **Agile** and **Kanban**, my journey encompasses launching **end-to-end projects** cross-functionally via **CI/CD**.
   
-- **👯 Looking to Collaborate On:** Innovative projects involving **RAG systems** and **LLM Fine-Tuning**.
+- **👯 Looking to Collaborate On:** Deep Learning projects involving **RAG systems** and **LLM Fine-Tuning**.
   
 - **📫 How to Reach Me:** [LinkedIn](https://www.linkedin.com/in/divyesh-pratap-singh/) | singh_divyesh@outlook.com
 
@@ -36,22 +38,21 @@
 <code><a href="https://www.atlassian.com/software/jira"><img height="25" alt="JIRA" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg"></a></code>
 <code><a href="https://git-scm.com/"><img height="25" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></a></code>
 <code><a href="https://kubernetes.io/"><img height="25" alt="Kubernetes" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg"></a></code>
-<code><a href="https://www.openshift.com/"><img height="25" alt="OpenShift" src="https://img.shields.io/badge/OpenShift-EE0000?logo=openshift&logoColor=white"></a></code>
 <code><a href="https://cloud.google.com/"><img height="25" alt="GCP" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"></a></code>
 <code><a href="https://lucene.apache.org/solr/"><img height="25" alt="Solr" src="https://img.shields.io/badge/Solr-000000?logo=apachesolr&logoColor=white"></a></code>
+<code><a href="https://www.openshift.com/"><img height="25" alt="OpenShift" src="https://img.shields.io/badge/OpenShift-EE0000?logo=openshift&logoColor=white"></a></code>
 
 ### Machine Learning & Data Science:
-<code><a href="https://scikit-learn.org/"><img height="25" alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white"></a></code>
 <code><a href="https://pytorch.org/"><img height="25" alt="PyTorch" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg"></a></code>
 <code><a href="https://www.tensorflow.org/"><img height="25" alt="TensorFlow" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"></a></code>
 <code><a href="https://hadoop.apache.org/"><img height="25" alt="Hadoop" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg"></a></code>
 <code><a href="https://spark.apache.org/docs/latest/api/python/"><img height="25" alt="PySpark" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg"></a></code>
+<code><a href="https://scikit-learn.org/"><img height="25" alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white"></a></code>
 <code><a href="https://huggingface.co/"><img height="25" alt="Hugging Face" src="https://img.shields.io/badge/Hugging%20Face-FCA121?logo=huggingface&logoColor=white"></a></code>
 <code><a href="https://github.com/huggingface/transformers"><img height="25" alt="Transformers" src="https://img.shields.io/badge/Transformers-FF5733?logo=transformers&logoColor=white"></a></code>
 <code><a href="https://github.com/huggingface/peft"><img height="25" alt="LoRA" src="https://img.shields.io/badge/LoRA-FF5733?logo=generic&logoColor=white"></a></code>
 <code><a href="https://hive.apache.org/"><img height="25" alt="Hive" src="https://img.shields.io/badge/Hive-EF6C00?logo=apachehive&logoColor=white"></a></code>
 <code><a href="https://spacy.io/"><img height="25" alt="spaCy" src="https://img.shields.io/badge/spaCy-000000?logo=spacy&logoColor=white"></a></code>
-<code><a href="https://www.nltk.org/"><img height="25" alt="NLTK" src="https://img.shields.io/badge/NLTK-000000?logo=nltk&logoColor=white"></a></code>
 <code><a href="https://github.com/openai/gpt-3"><img height="25" alt="GPT" src="https://img.shields.io/badge/GPT-343541?logo=openai&logoColor=white"></a></code>
 <code><a href="https://github.com/facebookresearch/llama"><img height="25" alt="LLaMA" src="https://img.shields.io/badge/LLaMA-00BFFF?logo=llama&logoColor=white"></a></code>
 <code><a href="https://img.shields.io/badge/CUDA-007396?logo=cuda&logoColor=white"><img height="25" alt="CUDA" src="https://img.shields.io/badge/CUDA-007396?logo=cuda&logoColor=white"></a></code>
@@ -96,7 +97,7 @@
   
   </td>
   <td width="25%">
-    <img src="https://github.com/user-attachments/assets/97c58ce6-a643-4577-86cd-6cea68120610" alt="NVson" width="200" height="150">
+    <img src="https://github.com/user-attachments/assets/a434013f-1a55-4a5e-b16f-8442783f3e07" alt="NVson" width="200" height="150">
   </td>
 </tr>
 </table>
