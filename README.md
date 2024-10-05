@@ -152,39 +152,18 @@
 
 ## 🎓 Education
 
-## 🎓 Education
+<img src="https://github.com/user-attachments/assets/b20abb70-5506-4025-991b-a0e7a6ac6f64" alt="University at Buffalo" width="20"/> **University at Buffalo, The State University of New York**  (*August 2023 – December 2024*)
+| *Master of Science in Artificial Intelligence*      |  **GPA**: 3.75 / 4.0          |
+| :-------------------------------------------------- | ----------------------------: |
 
 ---
 
-<img src="https://github.com/user-attachments/assets/b20abb70-5506-4025-991b-a0e7a6ac6f64" alt="University at Buffalo" width="20"/> **University at Buffalo, The State University of New York**
-
-<table border="0" width="100%">
-  <tr>
-    <td align="left"><i>Master of Science in Artificial Intelligence</i></td>
-    <td align="right"><i>August 2023 – December 2024</i></td>
-  </tr>
-  <tr>
-    <td><b>GPA</b>: 3.75 / 4.0</td>
-    <td></td>
-  </tr>
-</table>
+<img src="https://github.com/user-attachments/assets/f12115cf-6fce-4590-87c4-867a14e46057" width="20"/> **Thapar University**  (*July 2013 – June 2017*)
+| *Bachelor of Technology in Electrical Engineering*  |   **GPA**: 8.23 / 10          |
+| :-------------------------------------------------- | ----------------------------: |
 
 ---
 
-<img src="https://github.com/user-attachments/assets/f12115cf-6fce-4590-87c4-867a14e46057" width="20"/> **Thapar University**
-
-<table border="0" width="100%">
-  <tr>
-    <td align="left"><i>Bachelor of Technology in Electrical Engineering</i></td>
-    <td align="right"><i>July 2013 – June 2017</i></td>
-  </tr>
-  <tr>
-    <td><b>GPA</b>: 8.23 / 10</td>
-    <td></td>
-  </tr>
-</table>
-
----
 
 **Relevant Courses**:  
 Machine Learning, Pattern Recognition, Computer Vision & Image Processing, Reinforcement Learning, Deep Learning, Advanced Algorithm Analysis & Data Structures, Data Intensive Computing, Information Retrieval, Numerical Math.
