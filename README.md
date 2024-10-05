@@ -181,7 +181,6 @@
 
 ### Natural Language Processing
 <a href="https://github.com/Divyeshpratap/NVson"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Divyeshpratap&repo=NVson&theme=algolia&hide_border=false"></a>
-https://github.com/Divyeshpratap/NVson
 
 ### Deep Reinforcement Learning
 <a href="https://github.com/Divyeshpratap/AtariPongDQN"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Divyeshpratap&repo=AtariPongDQN&theme=algolia&hide_border=false"></a>
@@ -190,8 +189,7 @@ https://github.com/Divyeshpratap/NVson
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divyesh-pratap-singh/)  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/Divyeshpratap)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divyesh-pratap-singh/)  [![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/Divyeshpratap)
 
 <!-- Holopin Badges (if you have any) -->
 <!-- [![My Holopin Badges](https://holopin.io/api/user/your-holopin-username)](https://holopin.io/@your-holopin-username) -->
