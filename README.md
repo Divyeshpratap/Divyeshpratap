@@ -16,7 +16,7 @@
 <!-- Intro Section -->
 - 👋 **Greetings fellow ML enthusiasts!** I'm **Divyesh**, a Data Scientist with over **5 years of experience** in the **automotive**, **finance**, and **healthcare** sectors. I am pursuing a **Master's in Artificial Intelligence** at the **University at Buffalo**, New York where I work as a **Graduate Research Assistant** at the **SUNY Research Foundation** focusing on Deep Learning research.
   
-- **🌱 Learning:** I specialize in developing Machine Learning systems using **SOTA architectures** like **BERT**, **RAG**, and **LLM models** such as **LLaMA** and **GPT**.
+- **🌱 Learning:** I specialize in developing Machine Learning systems using **SOTA architectures** like **BERT**, **RAG**, **Whisper**, **CVAE**, and **LLM models** such as **LLaMA** and **GPT**. I am also proficient with traditional data science models (linear and non-linear), time series forecasting, and statistical anlysis like Hypothesis testing and A/B analysis.
   
 - **🔭 Current Work:** I am actively engaged in two interdisciplinary research projects as Research Assistant in distinct labs:
   - **Center for Unified Biometrics and Sensors (CUBS) lab**: Building a **real-time multimodal Active Speaker Localization** system that leverages audio and image embeddings extracted from video data. Using **LIP sync score** calculations, the system aims to accurately identify the active speaker in multi-speaker scenarios. This project is funded by **[NSF AI Institute for Transforming Education for Children with Speech and Language Processing Challenges](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2229873&HistoricalAwards=false)**.
