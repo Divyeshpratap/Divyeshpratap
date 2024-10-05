@@ -177,7 +177,14 @@
 ## 📂 Featured Repositories
 
 ### Full Stack employing Computer Vision and RAG Chatbot
-|<a href="https://github.com/Divyeshpratap/A.I.-AutoInspector"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Divyeshpratap&repo=A.I.-AutoInspector&theme=algolia&hide_border=false"></a> |
+<a href="https://github.com/Divyeshpratap/A.I.-AutoInspector"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Divyeshpratap&repo=A.I.-AutoInspector&theme=algolia&hide_border=false"></a>
+
+### Natural Language Processing
+<a href="https://github.com/Divyeshpratap/NVson"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Divyeshpratap&repo=NVson&theme=algolia&hide_border=false"></a>
+https://github.com/Divyeshpratap/NVson
+
+### Deep Reinforcement Learning
+<a href="https://github.com/Divyeshpratap/AtariPongDQN"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Divyeshpratap&repo=AtariPongDQN&theme=algolia&hide_border=false"></a>
 
 
 
