@@ -19,9 +19,9 @@
 - **🌱 Learning:** I specialize in developing Machine Learning systems using **SOTA architectures** like **BERT**, **RAG**, and **LLM models** such as **LLaMA** and **GPT**.
   
 - **🔭 Current Work:** I am actively engaged in two interdisciplinary research projects as Research Assistant in distinct labs:
-- **Center for Unified Biometrics and Sensors (CUBS) lab**: Building a **real-time multimodal Active Speaker Localization** system that leverages audio and image embeddings extracted from video data. Using **LIP sync score** calculations, the system aims to accurately identify the active speaker in multi-speaker scenarios. This project is funded by **[NSF AI Institute for Transforming Education for Children with Speech and Language Processing Challenges](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2229873&HistoricalAwards=false)**.
--  **Human Behaviour Modelling Lab**: Developing a causal model to identify Late Talkers among typically developing children by analyzing nuanced patterns in parent-child speech. I have fine-tuned **RoBERTa** to classify nouns and verbs into custom categories such as **Shape vs. Non-Shape Nouns and Result vs. Manner Verbs** using a **self-annotated corpus of 2.5 million words** and **12k vocab size**. I am currently working on leveraging **Reinforcement Learning with Human Feedback (RLHF)** to supervise and **fine-tune LLaMA** for similar classification tasks, with the ultimate goal of creating an explainable language model. This project is supported by the **[Buffalo Early Learning Lab](https://ubwp.buffalo.edu/buffaloearlylearning/)**.
-  
+  - **Center for Unified Biometrics and Sensors (CUBS) lab**: Building a **real-time multimodal Active Speaker Localization** system that leverages audio and image embeddings extracted from video data. Using **LIP sync score** calculations, the system aims to accurately identify the active speaker in multi-speaker scenarios. This project is funded by **[NSF AI Institute for Transforming Education for Children with Speech and Language Processing Challenges](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2229873&HistoricalAwards=false)**.
+  -  **Human Behaviour Modelling Lab**: Developing a causal model to identify Late Talkers among typically developing children by analyzing nuanced patterns in parent-child speech. I have fine-tuned **RoBERTa** to classify nouns and verbs into custom categories such as **Shape vs. Non-Shape Nouns and Result vs. Manner Verbs** using a **self-annotated corpus of 2.5 million words** and **12k vocab size**. I am currently working on leveraging **Reinforcement Learning with Human Feedback (RLHF)** to supervise and **fine-tune LLaMA** for similar classification tasks, with the ultimate goal of creating an explainable language model. This project is supported by the **[Buffalo Early Learning Lab](https://ubwp.buffalo.edu/buffaloearlylearning/)**.
+    
 - **👨‍💼 Experience:** I have previously worked with **Suzuki Motors** (India’s largest automobile manufacturer) and one of the **top three credit card companies in the USA** (full-time contract role). I impacted areas ranging from **poduction enginerring**, **logistics and sales** to **risk management** and **credit policies**. Proficient in **Agile** and **Kanban**, my journey encompasses launching **end-to-end projects** cross-functionally via **CI/CD**.
   
 - **👯 Looking to Collaborate On:** Deep Learning projects involving **RAG systems** and **LLM Fine-Tuning**.
@@ -126,28 +126,52 @@
 ### Research Assistant  
 **The Research Foundation SUNY, University at Buffalo | NY, USA**  
 *April 2024 ‑ Present*  
-[![ChildSpeak](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/Divyeshpratap/ChildSpeak-Early-Speech-Pattern-Analysis-using-NLP-for-Language-Development)
-
-- **ChildSpeak Project:** Designing a **causal modeling pipeline** for speech pattern analysis in children.
-- **Functionality:** Identifies toddlers as **Late Talkers** or **Typically Developing** using parent-child audio conversations.
-- **Technologies:** **OpenAI Whisper**, **Pyannote**, **SpaCy Transformers**.
-- **Status:** Completed transcription and classification pipelines. **Causal modeling** in progress.
+<table>
+  <tr>
+    <td width="90%">
+      [![ChildSpeak](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/Divyeshpratap/ChildSpeak-Early-Speech-Pattern-Analysis-using-NLP-for-Language-Development)
+      - **ChildSpeak Project:** Designing a **causal modeling pipeline** for speech pattern analysis in children.
+      - **Functionality:** Identifies toddlers as **Late Talkers** or **Typically Developing** using parent-child audio conversations.
+      - **Technologies:** **OpenAI Whisper**, **Pyannote**, **SpaCy Transformers**.
+      - **Status:** Completed transcription and classification pipelines. **Causal modeling** in progress.
+    </td>
+    <td width="10%" align="right">
+      <img src="https://github.com/user-attachments/assets/b20abb70-5506-4025-991b-a0e7a6ac6f64" alt="University at Buffalo" width="50">
+    </td>
+  </tr>
+</table>
 
 ### Data Science Lead Assistant Manager  
 **EXL Analytics | Gurugram, India**  
-*November 2021 ‑ June 2023*
-
-- **Continuous Data Integrity Tool:** Implemented data quality controls for **Credit & Fraud risk models**.
-- **Risk Strategy and Remediation Tool:** Developed strategies to adjust credit lines and manage adverse actions based on transactional behaviors.
-- **Achievements:** Reduced delinquent losses by **5%** and manual verification efforts by **30%**. Engineered a **scalable anomaly detection framework** optimizing real-time data fidelity.
+*November 2021 ‑ June 2023*  
+<table>
+  <tr>
+    <td width="90%">
+      - **Continuous Data Integrity Tool:** Implemented data quality controls for **Credit & Fraud risk models**.
+      - **Risk Strategy and Remediation Tool:** Developed strategies to adjust credit lines and manage adverse actions based on transactional behaviors.
+      - **Achievements:** Reduced delinquent losses by **5%** and manual verification efforts by **30%**. Engineered a **scalable anomaly detection framework** optimizing real-time data fidelity.
+    </td>
+    <td width="10%" align="right">
+      <img src="https://github.com/user-attachments/assets/0deebc69-1e78-49e7-9ee0-cce85f96541c" alt="EXL Analytics" width="50">
+    </td>
+  </tr>
+</table>
 
 ### Analytics Deputy Manager  
 **Suzuki Motors India Limited | Gurugram, India**  
-*July 2017 ‑ November 2021*
-
-- **Inventory Management & SKU Demand Forecasting:** Enhanced inventory turnover ratio, leading to **annual cost savings of $7 million**.
-- **Technologies Used:** **PySpark**, **Gradient Boosting**, **Hadoop**, **HBase**, **Hive**, **Spring MVC**, **JAVA**.
-- **Achievements:** Increased inventory turnover ratio from **3.2** to **4.7**.
+*July 2017 ‑ November 2021*  
+<table>
+  <tr>
+    <td width="90%">
+      - **Inventory Management & SKU Demand Forecasting:** Enhanced inventory turnover ratio, leading to **annual cost savings of $7 million**.
+      - **Technologies Used:** **PySpark**, **Gradient Boosting**, **Hadoop**, **HBase**, **Hive**, **Spring MVC**, **JAVA**.
+      - **Achievements:** Increased inventory turnover ratio from **3.2** to **4.7**.
+    </td>
+    <td width="10%" align="right">
+      <img src="https://github.com/user-attachments/assets/35029651-c548-4eff-8af2-23bb3a473240" alt="Suzuki Motors" width="50">
+    </td>
+  </tr>
+</table>
 
 ---
 
