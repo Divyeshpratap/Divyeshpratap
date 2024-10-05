@@ -82,35 +82,12 @@
 
 ## 🚀 Projects
 
-### [NVson - Noun Verb Syntax Observation Network](https://github.com/Divyeshpratap/NVson) 
-*March 2024 ‑ August 2024*  
-[![NVson](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/Divyeshpratap/NVson)
-
-- **NVson:** Developed an **explanatory model** to classify words into previously undefined categories.
-- **Functionality:** Classifies nouns into **Shape and Non-Shape Nouns**, and verbs into **Result and Manner Verbs**.
-- **Technologies:** **GPT 4o-mini**, **LLaMA 3.1 405B**, **RoBERTa base**, and **SpaCy Transformers**.
-- **Achievements:** Self-annotated a large dataset of **2.5 million words** with new POS tags by leveraging GPT to replace human annotators, achieving high classification accuracy (**94%** on Shape/Non-Shape nouns and **97%** on Result/Manner Verbs).
-
-### [Automobile Inspector: AI-Powered Car Damage Detection and Chatbot Platform](https://github.com/Divyeshpratap/A.I.-AutoInspector/)  
-*June 2024 ‑ August 2024*  
-[![Automobile Inspector](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/Divyeshpratap/A.I.-AutoInspector/)
-
-- **Deployment:** AI-driven web application integrating **computer vision** and **NLP** for comprehensive car repair solutions and online support.
-- **Technologies:** **Mask R-CNN**, **ResNet-101**, **Deformable Convolution Networks (DCN)**, **Flask**, **Ollama**, **LLaMA**, **Facebook FAISS**.
-- **Achievements:** Streamlined damage detection and cost estimation processes, enhancing user experience with a **user-centric interface**.
-
----
-
-
-## 🚀 Projects
-
 <table>
 <tr>
-  <td width="65%">
+  <td width="75%">
   
   ### [NVson - Noun Verb Syntax Observation Network](https://github.com/Divyeshpratap/NVson)  
-  *March 2024 ‑ August 2024*  
-  [![NVson](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/Divyeshpratap/NVson)
+  *March 2024 ‑ August 2024*      [![NVson](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/Divyeshpratap/NVson)
 
   - **NVson:** Developed an **explanatory model** to classify words into previously undefined categories.
   - **Functionality:** Classifies nouns into **Shape and Non-Shape Nouns**, and verbs into **Result and Manner Verbs**.
@@ -118,7 +95,7 @@
   - **Achievements:** Self-annotated a large dataset of **2.5 million words** with new POS tags by leveraging GPT to replace human annotators, achieving high classification accuracy (**94%** on Shape/Non-Shape nouns and **97%** on Result/Manner Verbs).
   
   </td>
-  <td width="35%">
+  <td width="25%">
     <img src="https://github.com/user-attachments/assets/97c58ce6-a643-4577-86cd-6cea68120610" alt="NVson" width="200" height="150">
   </td>
 </tr>
@@ -126,18 +103,17 @@
 
 <table>
 <tr>
-  <td width="65%">
+  <td width="75%">
 
   ### [Automobile Inspector: AI-Powered Car Damage Detection and Chatbot Platform](https://github.com/Divyeshpratap/A.I.-AutoInspector/)  
-  *June 2024 ‑ August 2024*  
-  [![Automobile Inspector](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/Divyeshpratap/A.I.-AutoInspector/)
+  *June 2024 ‑ August 2024*      [![Automobile Inspector](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/Divyeshpratap/A.I.-AutoInspector/)
 
   - **Deployment:** AI-driven web application integrating **computer vision** and **NLP** for comprehensive car repair solutions and online support.
   - **Technologies:** **Mask R-CNN**, **ResNet-101**, **Deformable Convolution Networks (DCN)**, **Flask**, **Ollama**, **LLaMA**, **Facebook FAISS**.
   - **Achievements:** Streamlined damage detection and cost estimation processes, enhancing user experience with a **user-centric interface**.
 
   </td>
-  <td width="35%">
+  <td width="25%">
     <img src="https://github.com/user-attachments/assets/ae5847f8-2b2d-4a1f-a98d-5195bbed7d6c" alt="Automobile Inspector" width="200" height="150">
   </td>
 </tr>
