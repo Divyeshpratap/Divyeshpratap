@@ -14,7 +14,7 @@
 </div>
 
 <!-- Intro Section -->
-- 👋 **Greetings fellow ML enthusiasts!** I'm **Divyesh**, an experienced ML engineer with over **5 years of expertise** in solving problems in the **automotive** and **finance** sectors, leveraging **AI** and advanced **analytics**. I am pursuing a **Master's in Artificial Intelligence** at the **University at Buffalo**, New York where I work as a **Graduate Research Assistant** at the **SUNY Research Foundation** focusing on Deep Learning research.
+- 👋 **Greetings fellow ML enthusiasts!** I'm **Divyesh**, a Data Scientist with over **5 years of experience** in the **automotive** and **finance** sectors. I am pursuing a **Master's in Artificial Intelligence** at the **University at Buffalo**, New York where I work as a **Graduate Research Assistant** at the **SUNY Research Foundation** focusing on Deep Learning research.
   
 - **🌱 Learning:** I specialize in developing Machine Learning systems using **SOTA architectures** like **BERT**, **RAG**, and **LLM models** such as **LLaMA** and **GPT**.
   
