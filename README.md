@@ -2,7 +2,7 @@
 
 <!-- Resume, LeetCode, and Website Links -->
 <p align="center">
-  📄 <a href="./resume.pdf">Resume</a> | 🐱‍💻 <a href="https://leetcode.com/u/DivyeshSingh/">LeetCode</a> | 🌐 <a href="https://divyeshpratap.github.io/">Website</a>
+  📄 <a href="./resume.pdf">Resume</a> | 🐱‍💻 <a href="https://leetcode.com/u/DivyeshSingh/">LeetCode</a> | 🌐 <a href="https://divyeshpratap.github.io/">Personal Website</a>
 </p>
 
 <!-- Dynamic Typing SVG for Welcome Message -->
