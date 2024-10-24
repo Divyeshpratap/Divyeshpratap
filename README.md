@@ -111,7 +111,7 @@
 
   - **Deployment:** AI-driven web application integrating **computer vision** and **NLP** for comprehensive car repair solutions and online support.
   - **Technologies:** **Mask R-CNN**, **ResNet-101**, **Deformable Convolution Networks (DCN)**, **Flask**, **Ollama**, **LLaMA**, **Facebook FAISS**.
-  - **Achievements:** Streamlined damage detection and cost estimation processes, enhancing user experience with a **user-centric interface**.
+  - **Achievements:** Streamlined the typically complex car repair process by enabling damage detection, cost estimation, and service request submission in just 5 clicks.
 
   </td>
   <td width="25%">
