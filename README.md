@@ -106,6 +106,7 @@
 <tr>
   <td width="75%">
 
+
   ### [Automobile Inspector: AI-Powered Car Damage Detection and Chatbot Platform](https://github.com/Divyeshpratap/A.I.-AutoInspector/)  
   *June 2024 ‑ August 2024*      [![Automobile Inspector](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/Divyeshpratap/A.I.-AutoInspector/)
 
@@ -115,7 +116,7 @@
 
   </td>
   <td width="25%">
-    <img src="https://github.com/user-attachments/assets/ae5847f8-2b2d-4a1f-a98d-5195bbed7d6c" alt="Automobile Inspector" width="200" height="150">
+    <img src="https://github.com/user-attachments/assets/dffc5e7f-0f48-4f16-b9a8-9df20485786e" alt="Automobile Inspector" width="200" height="150">
   </td>
 </tr>
 </table>
