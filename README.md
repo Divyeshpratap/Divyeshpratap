@@ -87,6 +87,26 @@
 <tr>
   <td width="75%">
   
+  ### [AVATAR - Audio-Visual Active Tracking and Annotation Rendering](https://github.com/Divyeshpratap/AVATAR.git)  
+  *July 2024 ‑ Present*      [![NVson](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/Divyeshpratap/AVATAR.git)
+
+  - **NVson:** Designing a **near realtime active speaker detection pipeline** to identify speakers in a multi-speaker scenario from live camera feed.
+  - **Functionality:** Models **Lip-Sync** between the **audio** recording and **video** frames to generate synchronization scores.
+  - **Technologies:** **Multi Threading**, **TalkNet**, **SyncNet**, and **Producer Consumer Architecture**.
+  - **Achievements:** Achieved **latency** of **0.25 seconds**, just 0.05 seconds above the 0.2-second average phoneme length required for accurate lip-sync scoring.
+  
+  </td>
+  <td width="25%">
+    <img src="https://github.com/user-attachments/assets/5fedcbb4-1d58-496e-9b39-259d0445ea5e" alt="AVATAR" width="200" height="150">
+  </td>
+</tr>
+</table>
+
+
+<table>
+<tr>
+  <td width="75%">
+  
   ### [NVson - Noun Verb Syntax Observation Network](https://github.com/Divyeshpratap/NVson)  
   *March 2024 ‑ August 2024*      [![NVson](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/Divyeshpratap/NVson)
 
