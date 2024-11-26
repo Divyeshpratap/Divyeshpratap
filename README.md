@@ -90,11 +90,11 @@
   ### [AVATAR - Audio-Visual Active Tracking and Annotation Rendering](https://github.com/Divyeshpratap/AVATAR.git)  
   *July 2024 ‑ Present*      [![NVson](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/Divyeshpratap/AVATAR.git)
 
-  - **NVson:** Designing a **near realtime active speaker detection pipeline** to identify speakers in a multi-speaker scenario from live camera feed.
+  - **AVATAR:** Designing a **near realtime active speaker detection pipeline** to identify speakers in a multi-speaker scenario from live camera feed.
   - **Functionality:** Models **Lip-Sync** between the **audio** recording and **video** frames to generate synchronization scores.
   - **Technologies:** **Multi Threading**, **TalkNet**, **SyncNet**, and **Producer Consumer Architecture**.
-  - **Achievements:** Achieved **latency** of **0.25 seconds**, just 0.05 seconds above the 0.2-second average phoneme length required for accurate lip-sync scoring.
-  
+  - **Achievements:** Achieved **latency** of **0.5 seconds**, just 0.25 seconds above the 0.25-second average phoneme length required for accurate lip-sync scoring.
+  - **Funding:** [NSF AI Institute for Transforming Education for Children with Speech and Language Processing Challenges](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2229873&HistoricalAwards=false).
   </td>
   <td width="25%">
     <img src="https://github.com/user-attachments/assets/5fedcbb4-1d58-496e-9b39-259d0445ea5e" alt="AVATAR" width="200" height="150">
@@ -114,6 +114,7 @@
   - **Functionality:** Classifies nouns into **Shape and Non-Shape Nouns**, and verbs into **Result and Manner Verbs**.
   - **Technologies:** **GPT 4o-mini**, **LLaMA 3.1 405B**, **RoBERTa base**, and **SpaCy Transformers**.
   - **Achievements:** Self-annotated a large dataset of **2.5 million words** with new POS tags by leveraging GPT to replace human annotators, achieving high classification accuracy (**94%** on Shape/Non-Shape nouns and **97%** on Result/Manner Verbs).
+  - **Funding:** [Buffalo Early Learning Lab](https://ubwp.buffalo.edu/buffaloearlylearning/).
   
   </td>
   <td width="25%">
