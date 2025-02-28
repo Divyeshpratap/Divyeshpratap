@@ -14,15 +14,15 @@
 </div>
 
 <!-- Intro Section -->
-- 👋 **Greetings fellow ML enthusiasts!** I'm **Divyesh**, a Data Scientist with over **5 years of experience** in the **automotive**, **finance**, and **healthcare** sectors. I am pursuing a **Master's in Artificial Intelligence** at the **University at Buffalo**, New York where I work as a **Graduate Research Assistant** at the **SUNY Research Foundation** focusing on Deep Learning research.
+- 👋 Greetings fellow ML enthusiasts! I'm **Divyesh**, a Machine Learning Engineer with over **5 years of experience** in the **automotive**, **finance**, and **healthcare** sectors. I am pursuing a **Master's in Artificial Intelligence** at the University at Buffalo, New York where I work as a **Graduate Research Assistant** at the **SUNY Research Foundation** focusing on **multi-modal active speaker localization** and **computational linguistics**.
   
-- **🌱 Learning:** I specialize in developing Machine Learning systems using **SOTA architectures** like **BERT**, **RAG**, **Whisper**, **CVAE**, and **LLM models** such as **LLaMA** and **GPT**. I am also proficient with traditional data science models (linear and non-linear), time series forecasting, and statistical anlysis like Hypothesis testing and A/B analysis.
+- **🌱 Learning:** I specialize in developing Machine Learning systems using **SOTA architectures** like **BERT**, **RAG**, **Whisper**, **CVAE**, and **LLM models** such as **LLaMA** and **GPT**. I am also proficient with traditional data science models (linear and non-linear), time series forecasting, and statistical analysis like Hypothesis testing and A/B analysis.
   
-- **🔭 Current Work:** I am actively engaged in two interdisciplinary research projects as Graduate Assistant in distinct labs:
-  - **Center for Unified Biometrics and Sensors (CUBS) lab**: Building a **real-time multimodal Active Speaker Localization** system that leverages audio and image embeddings extracted from video data. Using **LIP sync score** calculations, the system aims to accurately identify the active speaker in multi-speaker scenarios. This project is funded by **[NSF AI Institute for Transforming Education for Children with Speech and Language Processing Challenges](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2229873&HistoricalAwards=false)**.
-  -  **Human Behaviour Modelling Lab**: Developing a causal model to identify Late Talkers among typically developing children by analyzing nuanced patterns in parent-child speech. I have fine-tuned **RoBERTa** to classify nouns and verbs into custom categories such as **Shape vs. Non-Shape Nouns and Result vs. Manner Verbs** using a **self-annotated corpus of 2.5 million words** and **12k vocab size**. I am currently working on leveraging **Reinforcement Learning with Human Feedback (RLHF)** to supervise and **fine-tune LLaMA** for similar classification tasks, with the ultimate goal of creating an explainable language model. This project is supported by the **[Buffalo Early Learning Lab](https://ubwp.buffalo.edu/buffaloearlylearning/)**.
+- **🔭 Current Work:** I am actively engaged in two interdisciplinary research projects as Research Assistant in distinct labs:
+  - **Center for Unified Biometrics and Sensors (CUBS) lab** (Advised by [Dr. Venu Govindaraju](https://www.buffalo.edu/research/about-us/leadership/venu-govindaraju.html)): I am building a **real-time multimodal Active Speaker Localization (AVATAR)** model that leverages audio and image embeddings extracted from live video stream. The system aims to accurately identify the active speaker in multi-speaker scenarios using **LIP sync score**. I trained the lip sync model **AVATAR** on **Oxford’s Visual Geometry Group (VGG) voxceleb1/ voxceleb2, and Google AVA/ AVSpeech** dataset totalling to massive **2 million** videos. This project is funded by **[NSF AI Institute for Transforming Education for Children with Speech and Language Processing Challenges](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2229873&HistoricalAwards=false)**.
+  -  **Human Behaviour Modelling Lab** (Advised by [Dr. Ifeoma Nwogu](https://engineering.buffalo.edu/computer-science-engineering/people/faculty-directory/full-time.host.html/content/shared/engineering/computer-science-engineering/profiles/faculty/ladder/nwogu-ifeoma.detail.html)): Developing a causal model to identify Late Talkers among typically developing children by analyzing nuanced patterns in parent-child speech. I have fine-tuned **RoBERTa** to classify nouns and verbs into linguistic word root meaning categories such as **Shape vs. Non-Shape Nouns and Result vs. Manner Verbs**. The model is trained by leveraging **LLM as an expert annotator** to annotate [MASC](https://paperswithcode.com/dataset/masc) dataset consisting of **0.5 million words** and **12k vocab size**. I am currently working on leveraging **Reinforcement Learning with Human Feedback (RLHF)** to supervise and **fine-tune LLaMA** for similar classification tasks, with the ultimate goal of creating an explainable language model. This project is supported by the **[Buffalo Early Learning Lab](https://ubwp.buffalo.edu/buffaloearlylearning/)**.
     
-- **👨‍💼 Experience:** I have previously worked with **Suzuki Motors** (India’s largest automobile manufacturer) and one of the **top three credit card companies in the USA** (full-time contract role). I impacted areas ranging from **poduction enginerring**, **logistics and sales** to **risk management** and **credit policies**. Proficient in **Agile** and **Kanban**, my journey encompasses launching **end-to-end projects** cross-functionally via **CI/CD**.
+- **👨‍💼 Experience:** I have previously worked with **Suzuki Motors** (India’s largest automobile manufacturer) and **American Express** (full-time contract role) in Data Science roles. I impacted areas ranging from **poduction engineering**, **logistics and sales** to **risk management** and **credit policies**. Proficient in **Agile** and **Kanban**, my journey encompasses launching **end-to-end projects** cross-functionally via **CI/CD**.
   
 - **👯 Looking to Collaborate On:** Deep Learning projects involving **RAG systems** and **LLM Fine-Tuning**.
   
@@ -93,7 +93,8 @@
   - **AVATAR:** Designing a **near realtime active speaker detection pipeline** to identify speakers in a multi-speaker scenario from live camera feed.
   - **Functionality:** Models **Lip-Sync** between the **audio** recording and **video** frames to generate synchronization scores.
   - **Technologies:** **Multi Threading**, **TalkNet**, **SyncNet**, and **Producer Consumer Architecture**.
-  - **Achievements:** Achieved **latency** of **0.5 seconds**, just 0.25 seconds above the 0.25-second average phoneme length required for accurate lip-sync scoring.
+  - **Datasets:** [Oxford VGG group VoxCeleb](https://looking-to-listen.github.io/avspeech/) 1.2 M video segments , Google [AVA](https://research.google.com/ava/) and [AVSpeech](https://looking-to-listen.github.io/avspeech/) (4 M video segments).
+  - **Achievements:** Achieved **latency** of **0.2 seconds**, just 0.2 seconds above the 0.2-second average phoneme length required for accurate lip-sync scoring.
   - **Funding:** [NSF AI Institute for Transforming Education for Children with Speech and Language Processing Challenges](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2229873&HistoricalAwards=false).
   </td>
   <td width="25%">
@@ -113,7 +114,8 @@
   - **NVson:** Developed an **explanatory model** to classify words into previously undefined categories.
   - **Functionality:** Classifies nouns into **Shape and Non-Shape Nouns**, and verbs into **Result and Manner Verbs**.
   - **Technologies:** **GPT 4o-mini**, **LLaMA 3.1 405B**, **RoBERTa base**, and **SpaCy Transformers**.
-  - **Achievements:** Self-annotated a large dataset of **2.5 million words** with new POS tags by leveraging GPT to replace human annotators, achieving high classification accuracy (**94%** on Shape/Non-Shape nouns and **97%** on Result/Manner Verbs).
+  - **Datasets**: [MASC](https://paperswithcode.com/dataset/masc),  [InterCorp](https://intercorp.korpus.cz/?lang=en), [MBCDI](https://mb-cdi.stanford.edu/), and [CHILDES](https://childes.talkbank.org/)
+  - **Achievements:** Self-annotated a large dataset of **2.5 million words** with new POS tags by leveraging GPT to replace human annotators. Fine-tuned transformer model achieves high classification accuracy (**94%** on Shape/Non-Shape nouns and **91%** on Result/Manner Verbs). In comparison expert human annotators achieve accuracy of 79% on similar verb root semantics task.
   - **Funding:** [Buffalo Early Learning Lab](https://ubwp.buffalo.edu/buffaloearlylearning/).
   
   </td>
@@ -132,6 +134,7 @@
 
   - **Deployment:** AI-driven web application integrating **computer vision** and **NLP** for comprehensive car repair solutions and online support.
   - **Technologies:** **Mask R-CNN**, **ResNet-101**, **Deformable Convolution Networks (DCN)**, **Flask**, **Ollama**, **LLaMA**, **Facebook FAISS**.
+  - **Dataset**: [CarDD](https://cardd-ustc.github.io/) 9,000 images.
   - **Achievements:** Streamlined the typically complex car repair process by enabling damage detection, cost estimation, and service request submission in just 5 clicks.
 
   </td>
@@ -150,7 +153,7 @@
 - **ChildSpeak Project:** Designing a **causal modeling pipeline** for speech pattern analysis in 12-40 months old children.
 - **Functionality:** Identifies toddlers as **Late Talkers** or **Typically Developing** using parent-child audio conversations.
 - **Technologies:** **OpenAI Whisper**, **TalkNet**, **VocaLiST**, **Pyannote**, **SpaCy Transformers**.
-- **Status:** Completed transcription, speaker diarization and classification pipelines. **Causal modeling** in progress. Shape/ Non-Shape accuracy of **94%** and Result/ Manner verbs at **97%**.
+- **Status:** Completed transcription, speaker diarization and classification pipelines. **Causal modeling** in progress. Shape/ Non-Shape accuracy of **94%** and Result/ Manner verbs at **91%**.
 
 ---
 
@@ -174,7 +177,7 @@
 ## 🎓 Education
 
 <img src="https://github.com/user-attachments/assets/b20abb70-5506-4025-991b-a0e7a6ac6f64" alt="University at Buffalo" width="20"/> **University at Buffalo, The State University of New York**  (*August 2023 – December 2024*)
-| *Master of Science in Artificial Intelligence*      |  **GPA**: 3.75 / 4.0          |
+| *Master of Science in Artificial Intelligence*      |  **GPA**: 3.78 / 4.0          |
 | :-------------------------------------------------- | ----------------------------: |
 
 <img src="https://github.com/user-attachments/assets/f12115cf-6fce-4590-87c4-867a14e46057" width="20"/> **Thapar University**  (*July 2013 – June 2017*)
@@ -192,12 +195,15 @@ Machine Learning, Pattern Recognition, Computer Vision & Image Processing, Reinf
 
 - **Programming:** Python, HIVE, PySpark, SQL, Java, Shell Scripting, HTML, LaTeX, Apache Solr.
 - **Machine Learning:** Transformers, Parameter-Efficient Training, LoRA, Predictive Analytics, Feature Engineering, Clustering, Advanced Statistics.
-- **Frameworks/Libraries:** PyTorch, TensorFlow, Hugging Face, Hadoop, scikit-learn, Pandas, statsmodels, NumPy, OpenMMLab, CUDA, spaCy, NLTK.
+- **Frameworks/Libraries:** PyTorch, TensorFlow, Hugging Face, Hadoop, scikit-learn, Pandas, LangChain, statsmodels, NumPy, OpenMMLab, python Multi-Threading, CUDA, spaCy, NLTK.
 - **Information Technology:** Linux, Cloud Computing, Distributed Computing, Big Data, OpenShift, Git, Postman, GCP, Agile, JIRA, Kanban.
 
 ---
 
 ## 📂 Featured Repositories
+
+### Multi-Model Active Speaker Detection
+<a href="https://github.com/Divyeshpratap/AVATAR"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Divyeshpratap&repo=AVATAR&theme=algolia&hide_border=false"></a>
 
 ### Full Stack employing Computer Vision and RAG Chatbot
 <a href="https://github.com/Divyeshpratap/A.I.-AutoInspector"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Divyeshpratap&repo=A.I.-AutoInspector&theme=algolia&hide_border=false"></a>
