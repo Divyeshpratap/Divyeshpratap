@@ -171,7 +171,7 @@
 
 - **Inventory Management & SKU Demand Forecasting:** Enhanced inventory turnover ratio, leading to **annual cost savings of $7 million**.
 - **Technologies Used:** **PySpark**, **Gradient Boosting**, **Hadoop**, **HBase**, **Hive**, **Spring MVC**, **JAVA**.
-- **Achievements:** Increased inventory turnover ratio from **3.2** to **4.7** leading to annual **cost savings of $7 million** by reducing wastage.
+- **Achievements:** Increased inventory turnover ratio from **3.2** to **4.7** leading to annual **cost savings of $120K** by reducing wastage.
 
 
 ## 🎓 Education
