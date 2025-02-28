@@ -24,7 +24,7 @@
     
 - **👨‍💼 Experience:** I have previously worked with **Suzuki Motors** (India’s largest automobile manufacturer) and **American Express** (full-time contract role) in Data Science roles. I impacted areas ranging from **poduction engineering**, **logistics and sales** to **risk management** and **credit policies**. Proficient in **Agile** and **Kanban**, my journey encompasses launching **end-to-end projects** cross-functionally via **CI/CD**.
   
-- **👯 Looking to Collaborate On:** Deep Learning projects involving **RAG systems** and **LLM Fine-Tuning**.
+- **👯 Looking to Collaborate On:** **Multi-Modal Active Speaker Detection and Diarization** and **SLM Fine-Tuning**.
   
 - **📫 How to Reach Me:** [LinkedIn](https://www.linkedin.com/in/divyesh-pratap-singh/) | singh_divyesh@outlook.com
 
