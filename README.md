@@ -93,7 +93,7 @@
   - **AVATAR:** Designing a **near realtime active speaker detection pipeline** to identify speakers in a multi-speaker scenario from live camera feed.
   - **Functionality:** Models **Lip-Sync** between the **audio** recording and **video** frames to generate synchronization scores.
   - **Technologies:** **Multi Threading**, **TalkNet**, **SyncNet**, and **Producer Consumer Architecture**.
-  - **Datasets:** [Oxford VGG group VoxCeleb](https://looking-to-listen.github.io/avspeech/) 1.2 M video segments , Google [AVA](https://research.google.com/ava/) and [AVSpeech](https://looking-to-listen.github.io/avspeech/) (4 M video segments).
+  - **Datasets:** [Oxford VGG group VoxCeleb](https://www.robots.ox.ac.uk/~vgg/data/voxceleb/) 1.2 M video segments , Google [AVA](https://research.google.com/ava/) and [AVSpeech](https://looking-to-listen.github.io/avspeech/) (4 M video segments).
   - **Achievements:** Achieved **latency** of **0.2 seconds**, just 0.2 seconds above the 0.2-second average phoneme length required for accurate lip-sync scoring.
   - **Funding:** [NSF AI Institute for Transforming Education for Children with Speech and Language Processing Challenges](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2229873&HistoricalAwards=false).
   </td>
@@ -195,14 +195,14 @@ Machine Learning, Pattern Recognition, Computer Vision & Image Processing, Reinf
 
 - **Programming:** Python, HIVE, PySpark, SQL, Java, Shell Scripting, HTML, LaTeX, Apache Solr.
 - **Machine Learning:** Transformers, Parameter-Efficient Training, LoRA, Predictive Analytics, Feature Engineering, Clustering, Advanced Statistics.
-- **Frameworks/Libraries:** PyTorch, TensorFlow, Hugging Face, Hadoop, scikit-learn, Pandas, LangChain, statsmodels, NumPy, OpenMMLab, python Multi-Threading, CUDA, spaCy, NLTK.
+- **Frameworks/Libraries:** PyTorch, torch DataParallel, TensorFlow, Hugging Face, Hadoop, scikit-learn, Pandas, LangChain, statsmodels, NumPy, OpenMMLab, python Multi-Threading, CUDA, spaCy, NLTK.
 - **Information Technology:** Linux, Cloud Computing, Distributed Computing, Big Data, OpenShift, Git, Postman, GCP, Agile, JIRA, Kanban.
 
 ---
 
 ## 📂 Featured Repositories
 
-### Multi-Model Active Speaker Detection
+### Multi-Modal Active Speaker Detection
 <a href="https://github.com/Divyeshpratap/AVATAR"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Divyeshpratap&repo=AVATAR&theme=algolia&hide_border=false"></a>
 
 ### Full Stack employing Computer Vision and RAG Chatbot
