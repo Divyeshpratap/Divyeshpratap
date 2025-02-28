@@ -14,7 +14,7 @@
 </div>
 
 <!-- Intro Section -->
-- 👋 Greetings fellow ML enthusiasts! I'm **Divyesh**, a Machine Learning Engineer with over **5 years of experience** in the **automotive**, **finance**, and **healthcare** sectors. I am pursuing a **Master's in Artificial Intelligence** at the University at Buffalo, New York where I work as a **Graduate Research Assistant** at the **SUNY Research Foundation** focusing on **multi-modal active speaker localization** and **computational linguistics**.
+- 👋 Greetings fellow ML enthusiasts! I'm **Divyesh**, a Machine Learning Engineer with over **5 years of full time industry experience** in the **automotive**, and **finance** sectors. I am pursuing a **Master's in Artificial Intelligence** at the University at Buffalo, New York where I work as a **Graduate Research Assistant** at the **SUNY Research Foundation** focusing on **multi-modal active speaker localization** and **computational linguistics**.
   
 - **🌱 Learning:** I specialize in developing Machine Learning systems using **SOTA architectures** like **BERT**, **RAG**, **Whisper**, **CVAE**, and **LLM models** such as **LLaMA** and **GPT**. I am also proficient with traditional data science models (linear and non-linear), time series forecasting, and statistical analysis like Hypothesis testing and A/B analysis.
   
